@@ -1,6 +1,6 @@
-#If alphabet present in same position green
-#if alphabet present in word yellow
-#if alphabet is not present black
+#If alphabet present in the correct position -  green
+#If alphabet present in the word but wrong position - yellow
+#If alphabet is not present in the word - black
 
 
 words = ('write', 'first', 'water', 'after', 'where')
